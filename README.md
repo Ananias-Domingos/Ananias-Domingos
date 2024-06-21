@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ananias-Domingos
 - 🌱 Estou aprendendo Typescript
-- 💞️ Estou a colaborar na startup MIXA+
+- 💞️ Estou a colaborar na startup Biva
 - 📫 ontacte pelo email:ananiasdomingos2000@gmail.com
 
 <div style="display: inline_block"><br>
